@@ -29,7 +29,7 @@ Realizo auditorías básicas de seguridad en redes domésticas, identificando di
 - Wireshark  
 - Python  
 - Linux  
-
+- Burp Suite
 ---
 
 ## 🚀 Proyectos destacados
