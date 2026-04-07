@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👨‍💻 Matías Zúñiga
 
-<!--
-**Matizuni/Matizuni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛡️ Cybersecurity Student | Network Security | Ethical Hacking  
+📍 Chile  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 Sobre mí
+
+Actualmente me encuentro en formación en ciberseguridad, con enfoque en análisis de redes y detección de vulnerabilidades.
+
+Realizo auditorías básicas de seguridad en redes domésticas, identificando dispositivos, puertos abiertos y posibles riesgos.
+
+---
+
+## ⚙️ Habilidades
+
+- Network Scanning
+- Vulnerability Detection
+- Basic Pentesting
+- Python scripting
+- JSON data analysis
+
+---
+
+## 🛠️ Herramientas
+
+- Nmap  
+- Wireshark  
+- Python  
+- Linux  
+
+---
+
+## 🚀 Proyectos destacados
+
+### 🔹 Network Diff Scanner
+Herramienta para detectar cambios en la superficie de ataque de una red.
+
+👉 https://github.com/Matizuni/Network-diff-scanner
+
+---
+
+## 📈 Actualmente aprendiendo
+
+- Pentesting avanzado  
+- Análisis de tráfico de red  
+- Automatización en ciberseguridad  
+
+---
+
+## 📫 Contacto
+
+matirekor2@gmail.com
