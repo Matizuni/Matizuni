@@ -1,6 +1,6 @@
 # 👨‍💻 Matías Zúñiga
 
-🛡️ Cybersecurity Student | Network Security | Ethical Hacking  
+🛡️ Cybersecurity Student | Network Security | Front End  
 📍 Chile  
 
 ---
