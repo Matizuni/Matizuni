@@ -1,54 +1,106 @@
-# 👨‍💻 Matías Zúñiga
+# 👋 Hola, soy Matías Zúñiga
 
-🛡️ Cybersecurity Student | Network Security | Front End  
-📍 Chile  
+## 🛡️ Cybersecurity Student | Web Development | Python
 
----
+Estudiante de Técnico Universitario en Ciberseguridad y desarrollador
+de soluciones digitales.
 
-## 🔍 Sobre mí
-
-Actualmente me encuentro en formación en ciberseguridad, con enfoque en análisis de redes y detección de vulnerabilidades.
-
-Realizo auditorías básicas de seguridad en redes domésticas, identificando dispositivos, puertos abiertos y posibles riesgos.
+Me interesa construir productos tecnológicos que combinen desarrollo,
+análisis de datos y fundamentos de seguridad.
 
 ---
 
-## ⚙️ Habilidades
+## 🚀 Actualmente
 
-- Network Scanning
-- Vulnerability Detection
-- Basic Pentesting
-- Python scripting
-- JSON data analysis
-
----
-
-## 🛠️ Herramientas
-
-- Nmap  
-- Wireshark  
-- Python  
-- Linux  
-- Burp Suite
----
-
-## 🚀 Proyectos destacados
-
-### 🔹 Network Diff Scanner
-Herramienta para detectar cambios en la superficie de ataque de una red.
-
-👉 https://github.com/Matizuni/Network-diff-scanner
+- 🎓 Técnico Universitario en Ciberseguridad
+- 💻 Desarrollo Web con Vue 3 y JavaScript
+- 🐍 Python y automatización
+- 🔐 Redes y fundamentos de ciberseguridad
+- 🧪 Testing y validación de software
+- ☁️ Explorando tecnologías cloud y arquitectura
 
 ---
 
-## 📈 Actualmente aprendiendo
+## ⭐ Proyectos destacados
 
-- Pentesting avanzado  
-- Análisis de tráfico de red  
-- Automatización en ciberseguridad  
+### 🎙️ AMV Vocal Engine
+
+Motor de análisis vocal educativo desarrollado con Python.
+
+Transforma información de audio en datos técnicos y
+retroalimentación pedagógica para estudiantes.
+
+### 🎓 Aula Virtual AMO MI VOZ
+
+Plataforma educativa desarrollada con:
+
+- Vue 3
+- Supabase
+- PostgreSQL
+
+Incluye gestión de estudiantes, clases, actividades,
+evaluaciones y seguimiento.
+
+### 🛡️ Network Diff Scanner
+
+Herramienta orientada al análisis de cambios en la
+superficie de ataque de una red.
+
+### 🛒 Vue Product Showcase
+
+Aplicación frontend desarrollada con:
+
+- Vue 3
+- Vuex
+- Axios
+- Vuetify
+- Jest
+- Cypress
 
 ---
 
-## 📫 Contacto
+## 🧰 Stack
 
-matirekor2@gmail.com
+**Lenguajes**
+
+Python · JavaScript · SQL · HTML · CSS
+
+**Frontend**
+
+Vue 3 · Vuex · Vite · Axios
+
+**Backend / Data**
+
+Node.js · PostgreSQL · Supabase
+
+**Security**
+
+Nmap · Wireshark · Burp Suite · Linux
+
+**Tools**
+
+Git · GitHub · Jest · Cypress
+
+---
+
+## 🎯 Objetivo profesional
+
+Busco una oportunidad **Junior / Trainee** donde pueda seguir
+desarrollándome en tecnología, desarrollo de software y
+ciberseguridad.
+
+---
+
+## 🌐 Conecta conmigo
+
+**Portafolio**
+
+https://matizuni.github.io/Portafolio/
+
+**LinkedIn**
+
+https://www.linkedin.com/in/matizu/
+
+**GitHub**
+
+https://github.com/Matizuni
